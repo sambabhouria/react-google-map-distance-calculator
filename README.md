@@ -1,6 +1,6 @@
 # React Google api Distance Calculator
 
-<img src="./src/assets/img/1.png" />
+<img src="./src/assets/img/print1.png" />
 
 ## Installation
 
@@ -30,4 +30,4 @@
     7. Google Places API.
 
 <img src="./src/assets/img/print2.png" />
-<img src="./src/assets/img/pringt3.png" />
+<img src="./src/assets/img/print3.png" />
