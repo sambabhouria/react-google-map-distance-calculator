@@ -1,4 +1,4 @@
-# React Distance Calculator With Google api
+# React Google api Distance Calculator
 
 <img src="./src/assets/img/1.png" />
 
@@ -19,7 +19,7 @@
 
 ## Features
 
-<img src="./src/assets/img/1.png" />
+<img src="./src/assets/img/print1.png" />
 
     1. ReactJS
     2. Typescript.
@@ -29,5 +29,5 @@
     6. Google Maps Javascript API.
     7. Google Places API.
 
-<img src="./src/assets/img/2.png" />
-<img src="./src/assets/img/3.png" />
+<img src="./src/assets/img/print2.png" />
+<img src="./src/assets/img/pringt3.png" />
