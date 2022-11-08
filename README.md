@@ -1,7 +1,4 @@
 # React Google api Distance Calculator
-
-<img src="./src/assets/img/print1.png" />
-
 ## Installation
 
     1. Clone repository
